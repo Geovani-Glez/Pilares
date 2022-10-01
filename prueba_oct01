@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html>
+	<head> <title>Pagina Prueba</title>
+	</head>
+	<body>
+		<header><h1>Pagina Web Pilares</h1></header>
+
+
+	<section>
+		<p>Visitar la Ciudad de México es descubrir la capital de México y la ciudad
+		más grande del país. Conocida también como Distrito Federal o CDMX, la
+		capital mexicana está rodeada por varias cadenas montañosas a una altitud
+		de 2250 m.</p>
+		</aside>
+		<p>Mi familia y yo visitamos la Ciudad de México este verano. ¡El clima
+		estuvo agradable y la CDMX fue increíble! ¡Pasé un gran verano junto con mi
+		familia!</p>
+		<p>Mi familia y yo visitamos la Ciudad de México este verano. ¡El clima
+		estuvo agradable y la CDMX fue increíble! ¡Pasé un gran verano junto con mi
+		familia!</p>
+		<p>Mi familia y yo visitamos la Ciudad de México este verano. ¡El clima
+		estuvo agradable y la CDMX fue increíble! ¡Pasé un gran verano junto con mi
+		familia!</p>
+		<aside>
+	</section>
+	<br><br>
+
+	<ol>
+		<li>Linea 1</li>
+		<li>Linea 2</li>
+		<li>Linea 3</li>
+		<li>Linea 4</li>
+	</ol>
+
+	<ul>
+		<li>Linea 1</li>
+		<li>Linea 2</li>
+		<li>Linea 3</li>
+		<li>Linea 4</li>
+	</ul>
+
+	<dl>
+		<dt>Aries</dt>
+			<dd>-Uno de los 12 signos del horóscopo.</dd>
+		<dt>Dona</dt>
+			<dd>-Uno de mis bocadillos favoritos</dd>
+		<dt>Leo</dt>
+			<dd>-También es uno de los 12 signos del horóscopo.</dd>
+		<dt>Oracle</dt>
+			<dd>-Es una corporación multinacional de tecnología.</dd>
+	</dl>
+<br>
+
+	<table>
+		<tr><th>Nombre</th><th>Apellido</th><th>Edad</th><th>Calle</th><th>Escuela</th></tr>
+		<tr><td>Juan</td>	<td>Perez</td><td>30</td><td>pino</td></tr>
+		<tr><td>Maria</td><td>Lopez</td><td>25</td><td>dalia</td></tr>
+		<tr><td>Yovani</td><td>Gonzalez</td><td>30</td><td>lirio</td></tr>
+		<tr><td>Anita</td><td>Juarez</td><td>23</td><td>lila</td></tr>
+	</table>
+		
+<br>
+
+	<table border=5>
+		<tr><th>Nombre</th><th>Apellido</th><th>Puntuaje</th><th>Color</th></tr>
+		<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td><td>azul</td></tr>
+		<tr><td>James</td><td>William</td><td>80</td></tr>
+		<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>
+		<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>
+	</table>
+<br>
+
+	<table style=width:50% border=3>
+		<tr><th>Nombre</th><th>Apellido</th><th>Puntuaje</th></tr>
+		<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>
+		<tr><td>James</td><td>William</td><td>80</td></tr>
+		<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>
+		<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>
+	</table>
+
+
+<br><br>
+		<p>
+		Este párrafo es un elemento en bloque.
+		</p>
+
+		<p>
+		Texto normal y... <b>Texto en negrita</b>
+		</p>
+		
+		<elemento atributo=”valor">contenido del elemento</elemento>
+		<p><a href="https://pilares.cdmx.gob.mx/inicio">Esto es un link</a></p>
+		<br><a href="https://twitter.com/">Twitter</a></p>
+		<br><a href="https://www.facebook.com/">Facebook</a></p>
+		<br><a href="https://www.instagram.com/">Instagram</a></p>
+		<br><a href="https://www.instagram.com/">Tiktok</a></p>
+
+		<img src="img/twitter.jpg" height="400" width="600">
+
+		
+		
+	</body>
+
+	<footer>
+	<p>Author: Yovani Glez</p>
+	<p><a href="mailto:yovani.uzu@gamil.com">yovani.uzu@gmail.com.com</a></p>
+	</footer>
+
+	
+
+</html>
