@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+  <head>
+
+    	<title>Titulo de pagina</title>
+	
+
+  </head>
+
+  <body>
+	
+	<header><h1>ENCABEZADO NIVEL 1</h1>
+	
+	
+		<ol>
+		<li><a href="">ENLACE 1</a></li>
+		<li><a href="">ENLACE 2</a></li>
+		<li><a href="">ENLACE 3</a></li>
+		<li><a href="">ENLACE 4</a></li>
+		</ol>
+	
+	</header>
+	
+
+	<br>
+	<h2>Encabezado nivel 2</h2>
+	<br>
+	<p>Aquí va texto del primer <b>párrafo</b></p>
+	<p>Aquí va texto del segundo párrafo</p>
+	
+	<br>
+	<h3>Apartado</h3>
+	<br><br>
+	Elige una opción:
+	<br><br>
+	<input type="checkbox" name="Opcion1">Opcion 1<br>
+	<input type="checkbox" name="Opcion1">Opcion 2<br>
+	<input type="checkbox" name="Opcion1">Opcion 3<br>
+	<input type="number">
+	<br>
+	<button>Enviar</button>
+	<br>
+  </body>
+
+
+
+
+	<footer>
+	<br> Sección de información de contacto, derechos de autor, etc.
+	</footer>
+</html>
